@@ -1,0 +1,28 @@
+.navbar{
+  background: #0090e3;
+}
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover{
+  color: #fff;
+  font-size: 20px;
+}
+.navbar-default .navbar-toggle,
+ .navbar-default .navbar-toggle:active,
+  .navbar-default .navbar-toggle:hover,
+    .navbar-default .navbar-toggle:visited {
+  background: #fff;
+}
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+  }
+.navbar-default .navbar-nav li a, .navbar-default .navbar-nav li a:hover{
+  color: #fff;
+}
+ul.navbar-nav li{
+  border-bottom: 1px solid #fff;
+}
+.main__title{
+  margin-top: 190px;
+}
+h1{
+  color: #0090e3;
+}
